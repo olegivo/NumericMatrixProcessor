@@ -1,0 +1,9 @@
+/build.gradle
+/Numeric Matrix Processor/task/build/
+/Problems/**/out/**
+/.gradle/
+/.idea/
+/**/task/out/
+/**/task.html
+/**/*.yaml
+/**/task/test/**
